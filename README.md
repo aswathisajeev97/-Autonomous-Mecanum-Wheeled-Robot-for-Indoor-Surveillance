@@ -1,8 +1,10 @@
-Autonomous Mecanum Wheeled Robot for Indoor Surveillance
+## Autonomous Mecanum Wheeled Robot for Indoor Surveillance
 
 This project showcases the development of an autonomous indoor surveillance robot equipped with Mecanum wheels for omnidirectional movement and powered by the Robot Operating System (ROS). The robot combines AI-based object detection, real-time motion planning, and environment simulation to navigate and monitor complex indoor environments autonomously.
 
-🔧 Key Features
+---
+
+## 🔧 Key Features
 
 Omnidirectional Navigation using Mecanum wheels for precise movement in tight spaces
 
@@ -14,7 +16,9 @@ Custom Path Planning & Motion Control algorithms for stable and adaptive navigat
 
 Simulation & Testing in Gazebo with real-time visualization using RViz
 
-🛠️ Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 ROS1 Noetic (Robot Operating System)
 
@@ -28,7 +32,9 @@ Intel RealSense Camera (or equivalent RGB-D sensor)
 
 RViz (real-time diagnostics and visualization)
 
-🧠 Functional Highlights
+---
+
+## 🧠 Functional Highlights
 
 Autonomous patrol and surveillance in indoor environments
 
